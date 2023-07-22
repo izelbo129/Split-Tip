@@ -4,9 +4,6 @@
 
 This app is a simple tool that helps you split the bill and calculate the amount each person needs to pay, including the tip.
 
-
-Features
-
 The WeSplit app comes with the following features:
 
 Input Fields:
